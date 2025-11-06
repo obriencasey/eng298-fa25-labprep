@@ -3,7 +3,7 @@
 This short Pre-Class Lab Prep introduces you to GitHub and GitHub Codespaces, two essential tools for managing code and running lab environments directly in the cloud - no local setup required. By completing this exercise, you’ll be ready to launch course labs, collaborate on projects, and submit assignments hosted on GitHub
 
 ## Learning Objectives
-After completing this exercise, you will be able to:After completing this exercise, you will be able to:
+After completing this exercise, you will be able to:
 
 - Explain the purpose of Git and GitHub.
 - Create and configure your own GitHub account.

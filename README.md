@@ -25,7 +25,7 @@ Approximately 45-60 minutes
 2. Click **Fork** in the upper-right corner.
 3. Confirm your new repository appears under your account.
 
-### Part 3: Launching Your Codespace (15–20 minutes)
+### Part 3: Launching Your Codespace (10-20 minutes)
 1. In your forked repo, click **Code → Codespaces → Create codespace on main**.
 2. Wait for setup, then open the **Terminal** and run:
    ```bash

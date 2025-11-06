@@ -36,7 +36,17 @@ This short, self-paced module covers:
 3. Confirm your new repository appears under your account.
 
 ### Part 3: Launching Your Codespace (15-20 minutes)
-1. In your forked repo, click **Code → Codespaces → Create codespace on main**.
+**Quickstart: GitHub Codespaces**: To get started quickly with cloud-based development environments, check out the official GitHub Codespaces Quickstart guide:
+
+👉 [**Quickstart for GitHub Codespaces**](https://docs.github.com/en/codespaces/quickstart)
+
+This guide walks you through:
+- Creating and configuring a Codespace  
+- Connecting to your development environment  
+- Running commands, installing tools, and saving changes  
+- Managing resources and shutting down your Codespace when finished  
+
+1. In your forked repo from Part 2 above, click **Code → Codespaces → Create codespace on main**.
 2. Wait for setup, then open the **Terminal** and run:
    ```bash
    pwd
